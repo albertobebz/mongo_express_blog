@@ -1,0 +1,21 @@
+form input {
+  vertical-align: top!important;
+}
+
+textarea {
+  height:100px;
+}
+
+.list-group-item {
+  height:175px;
+}
+
+.left {
+  float:left;
+  width:50%;
+}
+
+.right{
+  width:20%;
+  float:right;
+}
